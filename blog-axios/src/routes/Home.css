@@ -26,7 +26,7 @@
     color: black;
     border: 1px solid white;
     padding: 0.5rem 3rem;
-    max-width: 100px;
+    max-width: 150px;
     text-align: center;
     cursor: pointer;
     transition: 0.3s;
@@ -34,5 +34,4 @@
 
 .btn:hover{
     opacity: 1;
-    transform: scale(1.1);
   }
