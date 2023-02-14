@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Blinker";
+}
+
+body {
+    background-color: rgb(19, 17, 17);
+    color: white;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    opacity: 0.4;
+    transition: 0.3s;
+}
+
+a:hover {
+    opacity: 1;
+}
+
